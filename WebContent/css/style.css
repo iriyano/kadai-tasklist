@@ -31,6 +31,7 @@ h2 {
     font-size: 20px;
     margin-top: 5px;
     margin-bottom: 10px;
+    color: #ff00ff;
 }
 
 li {
@@ -86,4 +87,14 @@ button {
     margin-bottom: 15px;
     color: #ffffff;
     background-color: #ee82ee;
+}
+
+#flush_error {
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 2%;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    color: #dc143c;
+    background-color: #ffdbdb;
 }
